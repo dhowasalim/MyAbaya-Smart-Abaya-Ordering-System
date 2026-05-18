@@ -38,8 +38,10 @@ The system also includes an admin dashboard for product management.
 - Cookies Implementation
 - JavaScript Validation
 
-## Screenshots
-(Add screenshots here later)
+## Project Demo
+A short demonstration showcasing the main features and functionality of the MyAbaya system.
+
+🎥 [Watch Project Demo on YouTube](https://youtu.be/-3XKkYHk9Xk)
 
 ## Project Purpose
 The project was created to improve traditional abaya shopping by providing a complete digital shopping experience for customers and an efficient management system for store administrators.
